@@ -1,8 +1,9 @@
 # Hi there, I'm Mohamed Aziz Jridi! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Embedded+Systems+Developer;Low-Level+Programming+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Embedded+Software+Developer;C+++Programming+Enthusiast;Competitive+Programmer;ACPC+Finalist" alt="Typing SVG" />
 </div>
+
 
 ##  About Me
 
