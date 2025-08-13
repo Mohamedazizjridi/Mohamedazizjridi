@@ -65,7 +65,7 @@ I'm a passionate **Computer Science student** at the National School of Computer
 
 ##  Current Focus
 
--  **Competitive Programming** - Training for ICPC and improving algorithmic problem-solving skills
+-  **Competitive Programming** - Training for ACPC and improving algorithmic problem-solving skills
 -  **Embedded Security** - Exploring hardware-level security implementations
 -  **Performance Optimization** - Mastering low-level optimization techniques
 
