@@ -59,7 +59,7 @@ I'm a passionate **Computer Science student** at the National School of Computer
 ## Competitive Programming Profiles
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Greeedy)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)]([https://leetcode.com/u/Greeeedy/])
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Greeeedy/)
 [![AtCoder](https://img.shields.io/badge/AtCoder-FF8C00?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Final_booS)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/xpected)
 
