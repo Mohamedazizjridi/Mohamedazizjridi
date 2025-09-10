@@ -12,7 +12,7 @@ I'm a passionate **Computer Science student** at the National School of Computer
 
 -  Exploring **IoT development** and **real-time embedded systems**
 -  Passionate about **microcontroller programming** and **C++ development**
--  **2nd place** winner in TCPC and qualified to  ACPC 2025.
+-  **2nd place** winner in TCPC and qualified to African and Arab Collegiate Programming Championship ACPC 2025.
 -  ENSI Competitive Programming Club (ECPC) Trainer.
 
 ## Tech Stack & Skills
